@@ -17,3 +17,5 @@ const COLOR_RED = "#ff0000"; // 빨간색
 const COLOR_BLACK = "#000000"; // 검정색
 
 // 상수는 대문자로 표기할 것(변수는 소문자로..)
+
+// git test 수정~
